@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Full-Stack Developer</h1>
-<h3 align="center">A passionate guitar looping</h3>
 
 - 🔭 I’m currently working on **decentralized connection between PLC.**
 
